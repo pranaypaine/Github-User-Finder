@@ -1,2 +1,2 @@
 # Github-User-Finder
-Simple WebApp to search Github users by their username and their latest repositories.
+Simple WebApp to search Github users and their latest repositories by their username.
